@@ -67,7 +67,7 @@
       <input type="range" min="-15" max="15" value="5" step="1" name="gain" oninput="this.nextElementSibling.value = this.value">
       <output class="hint">5</output>
 
-      <input type="submit" value="Go!">
+      <input type="submit" value="Convert">
     </form>
 
 
