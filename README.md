@@ -26,4 +26,4 @@ You can find more information and examples at the official documentation website
 [https://cloud.google.com/vision/docs/](https://cloud.google.com/text-to-speech/docs)
 
 Official Github Repo:
-[https://github.com/googleapis/google-cloud-php-vision](https://github.com/googleapis/google-cloud-php-text-to-speech)https://github.com/googleapis/google-cloud-php-text-to-speech
+[https://github.com/googleapis/google-cloud-php-vision](https://github.com/googleapis/google-cloud-php-text-to-speech)
